@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**cyberpek/Cyberpek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à Blockchain Cyberunixpek (Cypek)</h1>
+        <p>O futuro das criptomoedas começa aqui!</p>
+    </header>
+    <main>
+        <!-- Boas-vindas -->
+        <section>
+            <h2>Olá, Explorador!</h2>
+            <p>Você pode visualizar a blockchain, verificar o saldo de uma wallet ou até minerar novos blocos.</p>
+        </section>
